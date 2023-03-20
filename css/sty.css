@@ -1,0 +1,107 @@
+body {
+    background: #1e202b;
+}
+
+
+
+/* ============ nav============== */
+nav {
+
+    background: #1e202b;
+}
+
+.nav-text {
+    color: white;
+}
+
+
+
+
+.bg-img {
+    background-image: url(../img/banner.png);
+    height: 50vh;
+
+
+}
+
+.input-styl {
+    width: 100%;
+    height: 50px;
+    background: #2f3138;
+}
+
+
+
+.ancor-sty {
+    color: white;
+
+
+}
+
+
+.main-color {
+    background: #323544;
+}
+
+.inner-item-1 {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    background: #323544;
+}
+
+.item-2 {
+    color: white;
+    background: #1e202b;
+}
+
+.inner-item-2 {
+    color: white;
+    text-align: center;
+
+    padding: 10px 10px;
+    background: #23242a;
+}
+
+.inner-item-3 {
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    background: #323544;
+}
+
+.item-1 {
+    color: white;
+    background: #323544;
+}
+
+.item-1 h1 {
+    font-size: 4rem;
+}
+
+.item-3 {
+    color: white;
+    text-align: center;
+    background: #323544;
+}
+
+footer {
+    margin-top: 15rem;
+    border: #1e202b solid 1px;
+    background-color: #262936;
+    height: 20rem;
+}
+
+.icon-sty {
+    font-size: 2rem;
+    color: rgba(18, 18, 246, 0.934);
+}
+
+.icon-sty:hover {
+    color: white;
+    background: rgba(18, 18, 246, 0.934);
+    border-radius: 50%;
+    box-sizing: border-box;
+
+}
